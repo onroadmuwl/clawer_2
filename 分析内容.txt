@@ -1,0 +1,7 @@
+词云
+title
+location
+价格区间
+price
+echart有中文文档
+https://pyecharts.org/#/zh-cn/intro
