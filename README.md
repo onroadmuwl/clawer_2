@@ -23,4 +23,4 @@
 
 4、analyze.py<br>
 --
-用pyecharts和wordcloud对获取到的数据进行分析<br>
+用pyecharts和wordcloud对获取到的数据进行可视化分析<br>
